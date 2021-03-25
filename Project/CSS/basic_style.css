@@ -102,10 +102,10 @@ h1 {
 ------------------------------------------------------------------*/
 @keyframes race {
     0%, 100% {
-        transform: translateY (0px);
+        transform: translateY(0px);
         background-image: url("../images/icons/smileyface2.png")
     }
     50% {
-        transform: translateY (330px);
+        transform: translateY(330px);
     }
 }
